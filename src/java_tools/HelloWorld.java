@@ -6,5 +6,6 @@ public class HelloWorld {
 		System.out.println("Hello World");
 		System.out.println("Time is 3:40 PM");
 		System.out.println("Soooooooo Hot!!");
+		System.out.println("Soooooooo Cool!!");
 	}
 }
