@@ -7,6 +7,6 @@ public class HelloWorld {
 		System.out.println("Time is 3:40 PM");
 		System.out.println("Soooooooo Hot!!");
 		System.out.println("Soooooooo Cool!!");
-		System.out.println("2017-03-23 add");
+		System.out.println("2017-03-23 modified");
 	}
 }
